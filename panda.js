@@ -8,14 +8,14 @@ canvas.height = 600;
 
 const yercekimi    = 0.75;  
 const ziplamagucu  = -19;   
-let   oyun_hiz     = 2.5;   
+let   oyun_hiz     = 5;   
 const ayak_hizasi = 95;    
 const offset_cati   = 80;    
 const maxcan       = 5;     
 const yzemini       = 560;   // sadece referans olarak koydum
 
 
-let canavar_hiz = 1.2; 
+let canavar_hiz = 2; 
 
 
 const ev_width      = 750; 
