@@ -1,4 +1,5 @@
-//önce canvası kuruyoruz tabii ki de
+
+console.log("guncel mi");//önce canvası kuruyoruz tabii ki de
 
 const canvas = document.getElementById('gameCanvas'); 
 const context = canvas.getContext('2d');               
