@@ -20,7 +20,7 @@ let canavar_hiz = 1.2;
 
 const ev_width      = 750; 
 const ev_bitisik_mesafe = 450;              //genel olarak ayarlama kısımları
-const ev_bosluk_genislik  = 380;  
+const ev_bosluk_genislik  = 400;  
 const ev_grup_bosluk_sayi  = 5;    
 
 
