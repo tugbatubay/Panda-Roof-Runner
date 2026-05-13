@@ -554,8 +554,8 @@ function oyunuSifirla() {
     level             = 0;
     sonrakiLevelSkoru = 1000;
     can               = 3;
-    oyun_hiz         = 1.9;
-    canavar_hız = 1.2;
+    oyun_hiz         = 3;
+    canavar_hız = 1.5;
     olumsuzluk_suresi  = 0;
     kalkan_aktif       = false;
     kalkansuresi      = 0;
