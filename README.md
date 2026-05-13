@@ -70,7 +70,7 @@ Bu proje, saf JavaScript ve HTML5 Canvas API kullanılarak geliştirilmiş 2D bi
 ```
 proje/
 │
-├── index(2).html          # Oyunun ana HTML dosyası
+├── index.html          # Oyunun ana HTML dosyası
 ├── panda.js             # Tüm oyun mantığı (bu dosya!)
 │
 ├── arkaplan.png        # Arka plan görseli 1
