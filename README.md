@@ -139,8 +139,8 @@ Her **1000 puan**da bir yeni level açılır:
 ## 🚀 Kurulum ve Çalıştırma
 
 🌐 Oyun Linki (GitHub Pages)
-https://tugbatubay.github.io/Panda-Roof-Runner/
-Herhangi bir kurulum gerektirmez! Sadece dosyaları aynı klasöre koy ve `index.html` dosyasını bir tarayıcıda aç.
+-https://tugbatubay.github.io/Panda-Roof-Runner/
+-Herhangi bir kurulum gerektirmez! Sadece dosyaları aynı klasöre koy ve `index.html` dosyasını bir tarayıcıda aç.
 
 > ⚠️ **Not:** Ses ve görsel dosyaların `panda.js` ile **aynı klasörde** olması gerekiyor. Aksi halde görseller ve sesler yüklenemez.
 
